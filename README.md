@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Indra Puji Novirwan</h1>
-<h3 align="center">A passionate Mobile App and Frontend Developer from Indonesia</h3>
+<h3 align="center">A passionate Mobile App and Frontend Developer</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/indrapuji/indrapuji/master/assets/stack.png" alt="stacks"/>
